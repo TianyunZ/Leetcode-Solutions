@@ -22,7 +22,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 ### Header 3
 
-```cpp
+```
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
   dateformat.i18n = require('./lang/' + l)
