@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to leetcode solutions page](./leetcode-solutions.html).
+[Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
 
@@ -22,7 +22,7 @@ Solutions of LeetCode
 
 ### Header 3
 
-```js
+```cpp
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
   dateformat.i18n = require('./lang/' + l)
