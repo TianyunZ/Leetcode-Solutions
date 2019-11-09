@@ -4,7 +4,7 @@ layout: default
 
 ## #12 Integer to Roman
 
-```cpp
+```js
 // Cpp code with syntax highlighting.
 class Solution {
 private:
