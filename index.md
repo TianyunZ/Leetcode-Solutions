@@ -12,7 +12,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Outline
 
-Solutions of LeetCode
+[Link to Solutions of LeetCode](./leetcode-solutions.html).
 
 ## Header 2
 
