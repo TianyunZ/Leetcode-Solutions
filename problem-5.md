@@ -6,6 +6,7 @@ layout: default
 ## #5. Longest Palindromic Substring
 
 #1.Dynamic Programming
+当str[i]=str[j]时，如果str[i+1...j-1]是回文串，则str[i...j]也是回文串；如果str[i+1...j-1]不是回文串，则str[i...j]不是回文串
 ```cpp
 // Cpp code with syntax highlighting.
 string longestPalindrome(string s)
