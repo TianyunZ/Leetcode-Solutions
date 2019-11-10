@@ -5,6 +5,7 @@ layout: default
 
 ## #5. Longest Palindromic Substring
 
+#1.Dynamic Programming
 ```cpp
 // Cpp code with syntax highlighting.
 string longestPalindrome(string s)
