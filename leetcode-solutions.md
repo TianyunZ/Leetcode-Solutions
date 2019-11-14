@@ -4,8 +4,6 @@ layout: default
 
 ## Welcome to Solutions of LeetCode
 
-_yay_
-
 [back](./)
 
 [Link to problem 3](./problem-3.html).
