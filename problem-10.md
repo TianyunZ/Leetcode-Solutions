@@ -20,6 +20,8 @@ public:
 };
 ```
 
+Reference: https://blog.csdn.net/qq_40280096/article/details/82117696
+
 假设：string s = "0123456789";
 
 string sub1 = s.substr(5); //只有一个数字5表示从下标为5开始一直到结尾：sub1 = "56789"
