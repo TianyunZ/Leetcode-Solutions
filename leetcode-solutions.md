@@ -12,4 +12,6 @@ layout: default
 
 [Link to problem 7](./problem-7.html).
 
+[Link to problem 10](./problem-10.html).
+
 [Link to problem 12](./problem-12.html).
