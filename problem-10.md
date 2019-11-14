@@ -20,6 +20,12 @@ public:
 };
 ```
 
+假设：string s = "0123456789";
+
+string sub1 = s.substr(5); //只有一个数字5表示从下标为5开始一直到结尾：sub1 = "56789"
+
+string sub2 = s.substr(5, 3); //从下标为5开始截取长度为3位：sub2 = "567"
+
 Solution II >> DP动态规划
 
 ```cpp
