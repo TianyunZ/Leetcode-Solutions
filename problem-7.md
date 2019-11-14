@@ -1,9 +1,8 @@
 ---
-title: 2019-11-14未命名文件 
-tags: 新建,模板,小书匠
-renderNumberedHeading: true
-grammar_cjkRuby: true
+layout: default
 ---
+
+## #7 Reverse Integer
 
 ```cpp
 class Solution {
@@ -34,3 +33,4 @@ public:
     }
 };
 ```
+[back](./)
