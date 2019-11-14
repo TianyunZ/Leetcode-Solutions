@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## #7 Reverse Integer
+## #7. Reverse Integer
 
 ```cpp
 class Solution {
