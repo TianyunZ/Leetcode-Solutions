@@ -4,7 +4,7 @@ layout: default
 
 ## Welcome to Solutions of LeetCode
 
-[back](./)
+[<back](./)
 
 [Link to problem 3](./problem-3.html).
 
