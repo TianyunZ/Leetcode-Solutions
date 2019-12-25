@@ -3,3 +3,7 @@ description: Tianyun Zou's Blog.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-leap-day
+
+# URL 
+url: http://tianyunz.github.io/blog         # 博客网址 
+root: /blog/                                 # 网站根目录 
